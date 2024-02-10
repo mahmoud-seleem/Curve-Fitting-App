@@ -1,0 +1,16 @@
+__pycache__/
+.token
+.venv
+.env
+venv
+env
+.idea
+.vscode
+.vcode
+.eclipse
+build
+.build
+**/__pycache__/**
+__pycache__/**
+__pycache__
+/__pycache__/**
